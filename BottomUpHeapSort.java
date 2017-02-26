@@ -1,8 +1,4 @@
-/*Sukwhan Youn
- * HW 6
- * 11/6/2016
- * Problem #3
- */
+//Sukwhan Youn
 
 import java.util.*;
 
